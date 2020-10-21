@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Nautilus-lnk
-Comment=Nautilus follow lnkinfo App launcher. add this file to ~/.local/share/applications/
-Exec=/usr/local/bin/nautilus-lnk %f
-Icon=/usr/share/help/th/mate-user-guide/figures/caja_link_emblem.png
-Type=Application
-StartupNotify=true
-Terminal=true
