@@ -1,5 +1,5 @@
 # my-lnk-tools
-Tools andd scripts to manage Windows shortcut under linux
+Tools and scripts to manage Windows shortcut under linux
 
 ## nautilus-lnk ##
 ![Nautilus App helper (open with) on Windows shortcut .lnk file](pictures/open-with-nautilus-lnk.png)
