@@ -10,3 +10,11 @@ Tools and scripts to manage Windows shortcut under linux
  * open nautilus on link destination
  
 ![Nautilus open Windows shortcut link target](pictures/nautilus-lnk-on-target.png)
+
+### installation
+
+ * add nautilus-lnk.sh to local exec path : <code>cp  nautilus-lnk.sh /usr/local/bin/nautilus-lnk</code>
+ * allow exec : <code>chmod +x /usr/local/bin/nautilus-lnk</code>
+ * add App Helper to local (user) Applications Helper : <code>cp nautilus-lnk ~/.local/share/applications/</code>
+ * optional : add App Helper with debug to local (user) Applications Helper : <code>cp nautilus-lnk-debug ~/.local/share/applications/</code>
+ 
