@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Nautilus-lnk-debug
+Comment=Nautilus follow lnkinfo with debug
+Exec=/usr/local/bin/nautilus-lnk -d %f
+Icon=/usr/share/help/th/mate-user-guide/figures/caja_link_emblem.png
+Type=Application
+StartupNotify=true
+Terminal=true
+Categories=Utility;FileManager
